@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **backend api for cargo site**
 
-- 🌱 I’m currently learning **Django, NestJs, Pandas, NumPy**
+- 🌱 I’m currently learning **Django, API, FastAPI, DSA, BackEnd Development**
 
 - 📫 How to reach me **nihadnahmatli@gmail.com**
 
