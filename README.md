@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nihadnahmatli@gmail.com**
 
-- ⚡ Fun fact **I love coding**
+- ⚡ Fun fact **I love <a href="https://leetcode.com/u/nihad_nahmatli/" target="_blank">coding</a> and <a href="https://www.chess.com/member/nihad_chess_aze" target="_blank">chess</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
