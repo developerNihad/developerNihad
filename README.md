@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developernihad&label=Profile%20views&color=0e75b6&style=flat" alt="developernihad" /> </p>
 
-- 🔭 I’m currently working on **backend api for cargo site**
+- 🔭 I’m currently working on **backend api**
 
 - 🌱 I’m currently learning **Django, FastAPI, DSA, BackEnd Development**
 
