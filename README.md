@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nihad Nahmatli</h1>
-<h3 align="center">A passionate backend developer from Azerbaijan</h3>
+<h3 align="center">A passionate database developer from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developernihad&label=Profile%20views&color=0e75b6&style=flat" alt="developernihad" /> </p>
 
-- 🔭 I’m currently working on **backend api**
+- 🔭 I’m currently working on **databasee projects**
 
-- 🌱 I’m currently learning **Django, FastAPI, DSA, BackEnd Development**
+- 🌱 I’m currently learning **Oracle, PL/SQL, Database Development, Java**
 
 - 📫 How to reach me **nihadnahmatli@gmail.com**
 
